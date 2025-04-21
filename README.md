@@ -11,3 +11,6 @@ This branch demonstrates conflict resolution.(Exp-3)
 conflict-branch
 
 exp 4
+
+exp 7 
+rebase 
